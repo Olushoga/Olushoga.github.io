@@ -1129,11 +1129,11 @@ form p{
 
     .categories .box-container{
         height: 150vh;
-        margin-bottom: 10rem;
+        margin-bottom: 18rem;
     }
 
     .categories .box-container .box{
-        height: 37vh;
+        height: 40vh;
     }
 
     .categories .box-container .box img{
@@ -1209,6 +1209,7 @@ form p{
     .shop1{
         display: flex;
         gap: 1rem;
+        flex-wrap: wrap;
     }
 
     .pro-container{
